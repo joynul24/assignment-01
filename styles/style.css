@@ -26,7 +26,14 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
-    opacity: 70%;
+    opacity: 75%;
+}
+
+.common-title {
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+    margin-bottom: 25px;
 }
 
 /* nav styles */
@@ -75,4 +82,19 @@ nav {
     margin-top: 30px;
     background-color: #0D1321;
     color: #fff;
+}
+
+/* main styles */
+main {
+    max-width: 1140px;
+    margin: 80px auto;
+    padding: 80px 90px;
+    background-color: #0D132105;
+    border-radius: 16px;
+}
+
+.development-content {
+    max-width: 852px;
+    margin: 0 auto;
+    text-align: center;
 }
