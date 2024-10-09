@@ -128,3 +128,15 @@ main {
 .card-content > p {
     margin-bottom: 30px;
 }
+
+/* inspiration styles */
+
+.inspiration-content {
+    max-width: 852px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.inspiration-video {
+    padding: 32px;
+}
