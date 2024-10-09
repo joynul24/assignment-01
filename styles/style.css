@@ -179,7 +179,7 @@ main {
     margin-bottom: 24px;
 }
 
-.target-card> a{
+.target-card>a {
     font-size: 16px;
     font-weight: 700;
     color: #0D1321;
@@ -197,4 +197,26 @@ main {
 
 #js-card {
     background-color: #FFDF000D;
+}
+
+
+
+/* footer styles */
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #0D132108;
+    padding: 20px 0;
+}
+
+.footer-title>h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #0D1321;
+}
+
+.footer-icons {
+    display: flex;
+    gap: 24px;
 }
