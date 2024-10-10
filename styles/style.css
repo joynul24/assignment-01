@@ -209,6 +209,18 @@ main {
     background-color: #FFDF000D;
 }
 
+/* next target section styles */
+.next-target {
+    margin: 50px 0px;
+}
+
+.next-target-banner {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
 /* submit-section styles */
 
 .submit-section {
