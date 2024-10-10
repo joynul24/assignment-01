@@ -220,6 +220,35 @@ main {
     text-align: center;
 }
 
+.next-target-card-container {
+    margin: 50px 0;
+}
+
+.next-target-card {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: 1px solid #0D132126;
+    padding: 40px;
+    border-radius: 16px;
+}
+
+.next-target-card .next-target-title {
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.next-target-card  p {
+    margin-bottom: 24px;
+}
+
+.next-target-card a {
+    font-size: 16px;
+    font-weight: 700;
+    color: #0D1321;
+}
+
 
 /* submit-section styles */
 
@@ -242,6 +271,7 @@ main {
     margin: 0 auto;
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 24px;
 }
 
 #submit-title {
