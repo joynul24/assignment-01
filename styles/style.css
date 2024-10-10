@@ -88,12 +88,15 @@ nav {
 main {
     max-width: 1140px;
     margin: 80px auto;
+}
+
+/* Development styles */
+
+.development-section {
     padding: 80px 90px;
     background-color: #0D132105;
     border-radius: 16px;
 }
-
-/* Development styles */
 
 .development-content {
     max-width: 852px;
@@ -130,6 +133,13 @@ main {
 }
 
 /* inspiration styles */
+
+.inspiration-video {
+    border: 1px solid gray;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+}
 
 .inspiration-content {
     max-width: 852px;
