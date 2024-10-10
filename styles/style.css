@@ -231,6 +231,7 @@ main {
     border: 1px solid #0D132126;
     padding: 40px;
     border-radius: 16px;
+    margin-bottom: 24px;
 }
 
 .next-target-card .next-target-title {
