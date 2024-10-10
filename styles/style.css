@@ -209,6 +209,54 @@ main {
     background-color: #FFDF000D;
 }
 
+/* submit-section styles */
+
+.submit-section {
+    background-image: url("../assets/handshake.jpg");
+    background: linear-gradient(to top bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), url(Email));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 320px;
+    border-radius: 16px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.submit-content {
+    color: #fff;
+    max-width: 730px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#submit-title {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    margin-bottom: 24px;
+}
+
+.submit-input {
+    width: 684px;
+    margin: 0 auto;
+    display: flex;
+    gap: 15px;
+}
+
+.submit-input>input {
+    width: 548px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    padding: 19px 0 19px 20px;
+}
+
+#submit-btn {
+    border: none;
+}
 
 
 /* footer styles */
